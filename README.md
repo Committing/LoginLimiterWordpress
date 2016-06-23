@@ -1,4 +1,4 @@
-AB SecureWP
+SecureWP
 ===================
 
 This class is intended for securing Wordpress. Update and add new features when you realise new ways to secure our sites.
